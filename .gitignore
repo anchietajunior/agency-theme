@@ -1,3 +1,10 @@
+node_modules/
+bower_components/
+.sass-cache
+*.css.map
+build/
+dist/
+
 # Packages #
 ############
 # it's better to unpack
@@ -31,9 +38,3 @@ Thumbs.db
 # Build systems #
 #################
 
-node_modules/
-bower_components/
-.sass-cache
-*.css.map
-build/
-dist/
