@@ -1,4 +1,4 @@
-# appGulpBower
+# Agency-Theme
 
 Setup for gulp and bower to be used in web projects.
 
@@ -18,7 +18,7 @@ Inside the app folder:
 
 `bower install`
 
-After, in terminal run:
+After, into the root path run:
 
 `gulp`
 
